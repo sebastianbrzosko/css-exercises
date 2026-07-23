@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+.odds {
+    background-color: rgb(255, 182, 193, 0.7);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#second {
+    color: rgba(26, 11, 233, 0.9);
+    font-size: 36px;
+}
+.size {
+    font-size: 24px;
+}
+#fourth {
+    background-color: rgba(82, 255, 111, 0.8);
+    font-weight: bold;
+}
